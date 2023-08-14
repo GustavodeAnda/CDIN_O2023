@@ -1,5 +1,5 @@
-# Ciencia de Datos e Inteligencia de Negocios - Otoño 2022
-En este repositorio podras encontrar el material del curso de Ciencia de Datos e Inteligencia de Negocios (CDIN) para el periodo de Otoño del 2022.
+# Ciencia de Datos e Inteligencia de Negocios - Otoño 2023
+En este repositorio podras encontrar el material del curso de Ciencia de Datos e Inteligencia de Negocios (CDIN) para el periodo de Otoño del 2023.
 
 Este curso está dividido en cuatro módulos. 
 
